@@ -1,2 +1,2 @@
-## PCB Design - Hardwae Hack Day
+## PCB Design - Hardware Hack Day
 ### Batarang LED Flasher PCB Design
